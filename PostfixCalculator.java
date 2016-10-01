@@ -5,7 +5,7 @@ import java.io.PrintStream;
 import java.nio.file.Files;
 import java.util.*;
 
-public class Homework3Problem1 {
+public class PostfixCalculator {
 
 	public static void main(String[] args) throws IOException {
 
